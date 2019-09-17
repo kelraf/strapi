@@ -1,0 +1,18 @@
+{
+  "connection": "default",
+  "collectionName": "todos",
+  "info": {
+    "name": "todos",
+    "description": "A todos store"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "desc": {
+      "type": "string"
+    }
+  }
+}
